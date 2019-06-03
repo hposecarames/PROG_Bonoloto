@@ -10,7 +10,7 @@ import java.util.Arrays;
  * @author Hector Pose Carames
  */
 public class Bonoloto extends javax.swing.JFrame {
-    Datos obx = new Datos();
+    
     /**
      * Creates new form Bonoloto
      */
